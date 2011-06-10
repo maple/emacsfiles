@@ -1,0 +1,16 @@
+Created by Masayuki Takahashi.
+email: maple._wine@csc.jp
+
+
+
+===* blockdiag *===
+
+if you want to use "actdiag", write on your .emacs like below.
+
+(setq blockdiag-dot-program "actdiag")
+
+
+if output format change PDF or SVG, write on .emacs like below.
+
+(setq blockdiag-dot-preview-extension "pdf")
+
