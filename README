@@ -1,11 +1,14 @@
 Created by Masayuki Takahashi.
 email: maple._wine@csc.jp
 
+This file has been used as reference of graphviz-dot.el from below site.
+http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html
 
 
 ===* blockdiag *===
 
 if you want to use "actdiag", write on your .emacs like below.
+it coludn't set a program whcih diag file you opened. 
 
 (setq blockdiag-dot-program "actdiag")
 
@@ -13,4 +16,6 @@ if you want to use "actdiag", write on your .emacs like below.
 if output format change PDF or SVG, write on .emacs like below.
 
 (setq blockdiag-dot-preview-extension "pdf")
+
+
 
