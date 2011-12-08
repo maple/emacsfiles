@@ -1,6 +1,7 @@
-;;; blockdiag-mode.el --- Mode for the dot-language used by blockdiag.
+;;; blockdiag-mode.el --- Mode for the diag file used by blockdiag.
 ;; 
-;; blockdiag-mode.el is based on blockdiag-dot.el.:-), actually just almost copied.
+;; blockdiag-mode.el is based on graphviz-dot.el from below.
+;; http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html
 ;; Thank Pieter Pareit very much!!
 ;; Copyright (C) 2011 - 2011 fortunan on twitter.
 ;;
